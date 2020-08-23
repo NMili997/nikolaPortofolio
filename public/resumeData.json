@@ -1,113 +1,125 @@
 {
   "main": {
-    "name":"Nikola Milivojević",
-    "occupation":"Full-Stack Developer",
-    "description":"Challenge yourself, it is the only path that lead to development",
-    "image":"profilepic.jpg",
-    "bio":"Behind me I have internship(5 months) and some projects. I have a diverse set of skills, ranging from desing, to HTML + CSS + JS, all the way to backend side(node.js). With every line of code, I strive to make the web a beautiful place.",
-    "contactmessage":"Contact me!",
+    "name": "Nikola Milivojević",
+    "occupation": "Full-Stack Developer",
+    "description": "Challenge yourself, it is the only path that lead to development",
+    "image": "profilepic.jpg",
+    "bio": "Behind me I have internship(5 months) and some projects. I have a diverse set of skills, ranging from desing, to HTML + CSS + JS, all the way to backend side(node.js).I want to rise up my proffessionals skills & want to meet new people & and gain new experience from them. With every line of code, I strive to make the web a beautiful place.",
+    "contactmessage": "Contact me!",
     "email": "milivojevic97@outlook.com",
-    "phone": "+38760/595-7195",
-    "address":{
-      "street":"(Ozrenska 66)",
-      "city":"Belgrade",
+    "phone": "+38160/595-7195",
+    "address": {
+      "street": "(Ozrenska 66)",
+      "city": "Belgrade",
       "zip": "(11010)"
     },
     "website": "none",
-    "resumedownload":"NikolaMilivojevic__CV.pdf",
-    "social":[
+    "resumedownload": "NikolaMilivojevic__CV.pdf",
+    "social": [
       {
-        "name":"facebook",
-        "url":"https://www.facebook.com/profile.php?id=100000625595869",
-        "className":"fa fa-facebook"
+        "name": "facebook",
+        "url": "https://www.facebook.com/profile.php?id=100000625595869",
+        "className": "fa fa-facebook"
       },
       {
-        "name":"linkedin",
-        "url":"https://www.linkedin.com/in/mili997/",
-        "className":"fa fa-linkedin"
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/mili997/",
+        "className": "fa fa-linkedin"
       },
       {
-        "name":"box",
-        "url":"https://www.upwork.com/freelancers/~01439a2a686e8767d1",
-        "className":"fa fa-user"
+        "name": "box",
+        "url": "https://www.upwork.com/freelancers/~01439a2a686e8767d1",
+        "className": "fa fa-user"
       },
       {
-        "name":"github",
-        "url":"https://github.com/NMili997",
-        "className":"fa fa-github"
+        "name": "github",
+        "url": "https://github.com/NMili997",
+        "className": "fa fa-github"
       }
-      
     ]
   },
-  "resume":{
-    "skillmessage":"",
-    "education":[
+  "resume": {
+    "skillmessage": "",
+    "education": [
       {
-        "school":"Faculty of Technical Sciences, University of Novi Sad",
-        "degree":"Candidate for a degree",
-        "graduated":"2016 - Present",
-        "description":"Electronics & telecommunication department"
-      }
-     
-    ],
-    "work":[
-      {
-        "company":"MQ Quality Software Solutions",
-        "title":"Junior Full-stack developer",
-        "years":"Jan - May 2020",
-        "description":"As a member of an agile team as part of my internship program at MQ Quality Software Solutions doo worked on development of real person recommendations for travelers Web app. Main responsibilities: React components development External API integration Testing Technology: MERN Stack "
+        "school": "Faculty of Technical Sciences, University of Novi Sad",
+        "degree": "Candidate for a degree",
+        "graduated": "2016 - Present",
+        "description": "Electronics & telecommunication department"
       }
     ],
-    "skills":[
+    "work": [
       {
-        "name":"Git & CI-CD",
-        "level":"60%"
+        "company": "MQ Quality Software Solutions",
+        "title": "Junior Full-stack developer",
+        "years": "Jan - May 2020",
+        "description": "As a member of an agile team as part of my internship program at MQ Quality Software Solutions doo worked on development of real person recommendations for travelers Web app. Main responsibilities: React components development External API integration Testing Technology: MERN Stack "
+      }
+    ],
+    "skills": [
+      {
+        "name": "Git & CI-CD",
+        "level": "80%"
       },
       {
-        "name":"ReactJs",
-        "level":"70%"
+        "name": "VSCode",
+        "level": "70%"
       },
       {
-        "name":"CSS",
-        "level":"90%"
+        "name": "Linux",
+        "level": "50%"
       },
       {
-        "name":"HTML5",
-        "level":"80%"
+        "name": "ReactJs",
+        "level": "70%"
       },
       {
-        "name":"MongoDB",
-        "level":"80%"
+        "name": "CSS",
+        "level": "90%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
       },
       {
         "name": "NodeJS",
-        "level":"60%"
+        "level": "60%"
       },
       {
         "name": "JavaScript",
-        "level":"50%"
+        "level": "50%"
       }
     ]
   },
-  "portfolio":{
+  "portfolio": {
     "projects": [
       {
-        "title":"Full auth with MERN Stack",
-        "category":"This app will allow users to register & login, access protected pages only accessible to logged in users, stay logged in when they close the app or refresh the page.",
-        "image":"pr1.png",
-        "url":"https://github.com/NMili997/Scheduling_Calendar"
+        "title": "Full auth with MERN Stack",
+        "category": "This app will allow users to register & login, access protected pages only accessible to logged in users, stay logged in when they close the app or refresh the page.",
+        "image": "pr1.png",
+        "url": "https://github.com/NMili997/Scheduling_Calendar"
       },
       {
-        "title":"Backend API integration",
-        "category":"Build RESTFul-API with node.js & express, tested by Postman.",
-        "image":"pic02.jpg",
-        "url":"https://github.com/NMili997/Blog-Post-Api"
+        "title": "Backend API integration",
+        "category": "Build RESTFul-API with node.js & express, tested by Postman.",
+        "image": "pic02.jpg",
+        "url": "https://github.com/NMili997/Blog-Post-Api"
       },
       {
-        "title":"Chenkster",
-        "category":"Real person recommendations for travelers Web app. Private repo",
-        "image":"pic08.jpg",
-        "url":"#"
+        "title": "Chenkster",
+        "category": "Real person recommendations for travelers Web app. Private repo",
+        "image": "pic08.jpg",
+        "url": "#"
+      },
+      {
+        "title": "Portofolio",
+        "category": "Build portofolio with react",
+        "image": "screen_shot.jpg",
+        "url": "https://github.com/NMili997/nikolaPortofolio"
       }
     ]
   }
